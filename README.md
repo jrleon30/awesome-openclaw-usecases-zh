@@ -38,22 +38,20 @@
 
 </details>
 
-> **新手？** 推荐从这些零门槛用例开始：[健康追踪](usecases/health-symptom-tracker.md) · [个人知识库](usecases/knowledge-base-rag.md) · [第二大脑](usecases/second-brain.md) · [早间简报](usecases/custom-morning-brief.md) · [收件箱整理](usecases/inbox-declutter.md)
->
-> **中国用户？** 直接看 [中国特色用例](#-中国特色用例)，使用飞书/微信/小红书等国内工具。
+> **2026.3.1 更新**：新增 8 个中国特色用例——飞书、钉钉、企业微信三大 IM 入口全覆盖，以及小红书自动化、全网比价、办公套件等场景。详见 [中国特色用例](#-中国特色用例)。
 
 ---
 
 ## 🗂 目录
 
 - [新手入门指南](#-新手入门指南)
+- [中国特色用例](#-中国特色用例) — 飞书、钉钉、企业微信、小红书、全网比价等国内工具场景
 - [社交媒体](#社交媒体) — 自动获取 Reddit、YouTube、X 等平台的精选内容
 - [创意与构建](#创意与构建) — 让 AI 帮你创作内容、构建应用
 - [基础设施与 DevOps](#基础设施与-devops) — 服务器自愈、工作流自动化
 - [生产力](#生产力) — 邮件整理、日程管理、客户服务、个人助理
 - [研究与学习](#研究与学习) — 知识库、市场调研、财报追踪
 - [金融与交易](#金融与交易) — 预测市场模拟交易
-- [中国特色用例](#-中国特色用例) — 飞书、钉钉、企业微信、小红书、全网比价等国内工具场景
 
 ---
 
@@ -113,6 +111,23 @@
 ---
 
 > ⚠️ **安全警告**：此处引用的 OpenClaw 技能和第三方依赖可能存在安全风险。许多用例链接到社区构建的技能、插件和外部仓库，这些**未经本仓库维护者审核**。请始终审查技能源代码，检查请求的权限，避免硬编码 API 密钥或凭证。您需对自己的安全负全部责任。
+
+---
+
+## 🇨🇳 中国特色用例
+
+> 专为中国工具生态设计，使用飞书、小红书、淘宝/京东等国内平台
+
+| 名称 | 描述 | 难度 |
+|------|------|:---:|
+| [飞书 AI 助手](usecases/cn-feishu-ai-assistant.md) | 把 OpenClaw 部署为飞书机器人，在对话中直接触发 AI 任务，支持文档自动化 | ⭐⭐ |
+| [钉钉 AI 助手](usecases/cn-dingtalk-ai-assistant.md) | 把 OpenClaw 部署为钉钉机器人，Stream 模式无需公网 IP | ⭐⭐ |
+| [企业微信 AI 助手](usecases/cn-wecom-ai-assistant.md) | 在企业微信中使用 AI，通过微信插件让个人微信也能用 | ⭐⭐ |
+| [早间简报（中国适配）](usecases/custom-morning-brief.md) | 每日定时推送简报到飞书/钉钉，支持中文新闻源和 cron 配置 | ⭐ |
+| [办公自动化套件](usecases/cn-office-automation.md) | 邮件管理、文件整理、会议纪要、周报生成，支持 163/QQ/Outlook | ⭐⭐ |
+| [小红书内容自动化](usecases/cn-xiaohongshu-automation.md) | 从选题、文案、封面图到定时发布的全流程自动化 | ⭐ |
+| [全网比价助手](usecases/cn-ecommerce-price-assistant.md) | 跨淘宝/京东/拼多多/抖音/快手一句话比价 | ⭐ |
+| [多智能体协作操作系统](usecases/cn-multi-agent-operating-system.md) | 把 OpenClaw 从单一智能体变成各司其职的 AI 团队 | ⭐⭐⭐ |
 
 ---
 
@@ -186,21 +201,6 @@
 | 名称 | 描述 | 难度 |
 |------|------|:---:|
 | [Polymarket 自动驾驶](usecases/polymarket-autopilot.md) | 自动化预测市场模拟交易，带回测、策略分析和每日绩效报告 | ⭐⭐⭐ |
-
-## 🇨🇳 中国特色用例
-
-> 专为中国工具生态设计，使用飞书、小红书、淘宝/京东等国内平台
-
-| 名称 | 描述 | 难度 |
-|------|------|:---:|
-| [飞书 AI 助手](usecases/cn-feishu-ai-assistant.md) | 把 OpenClaw 部署为飞书机器人，在对话中直接触发 AI 任务，支持文档自动化 | ⭐⭐ |
-| [钉钉 AI 助手](usecases/cn-dingtalk-ai-assistant.md) | 把 OpenClaw 部署为钉钉机器人，Stream 模式无需公网 IP | ⭐⭐ |
-| [企业微信 AI 助手](usecases/cn-wecom-ai-assistant.md) | 在企业微信中使用 AI，通过微信插件让个人微信也能用 | ⭐⭐ |
-| [早间简报（中国适配）](usecases/custom-morning-brief.md) | 每日定时推送简报到飞书/钉钉，支持中文新闻源和 cron 配置 | ⭐ |
-| [办公自动化套件](usecases/cn-office-automation.md) | 邮件管理、文件整理、会议纪要、周报生成，支持 163/QQ/Outlook | ⭐⭐ |
-| [小红书内容自动化](usecases/cn-xiaohongshu-automation.md) | 从选题、文案、封面图到定时发布的全流程自动化 | ⭐ |
-| [全网比价助手](usecases/cn-ecommerce-price-assistant.md) | 跨淘宝/京东/拼多多/抖音/快手一句话比价 | ⭐ |
-| [多智能体协作操作系统](usecases/cn-multi-agent-operating-system.md) | 把 OpenClaw 从单一智能体变成各司其职的 AI 团队 | ⭐⭐⭐ |
 
 > 难度说明：⭐ 复制粘贴即可用 · ⭐⭐ 需要简单配置 · ⭐⭐⭐ 需要一定技术基础
 
