@@ -7,12 +7,12 @@
 
 <h3>OpenClaw AI 智能体最佳真实用例大全</h3>
 
-<p>36 个经过验证的真实场景，手把手教你用 AI 智能体自动化工作与生活</p>
+<p>39 个经过验证的真实场景，手把手教你用 AI 智能体自动化工作与生活</p>
 
 <br/>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![用例数量](https://img.shields.io/badge/用例-36-blue?style=flat-square)
+![用例数量](https://img.shields.io/badge/用例-39-blue?style=flat-square)
 ![中文](https://img.shields.io/badge/语言-简体中文-red?style=flat-square)
 ![新手友好](https://img.shields.io/badge/难度-新手友好-green?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
@@ -152,6 +152,7 @@
 | [目标驱动的自主任务](usecases/overnight-mini-app-builder.md) | 告诉 AI 你的目标，它自动拆解并每天执行，还能一夜之间造出迷你应用 | ⭐⭐ |
 | [YouTube 内容流水线](usecases/youtube-content-pipeline.md) | 为 YouTube 频道自动化视频创意发掘、研究和追踪 | ⭐⭐⭐ |
 | [多智能体内容工厂](usecases/content-factory.md) | 在 Discord 中运行研究、写作、设计三个智能体组成的内容流水线 | ⭐⭐⭐ |
+| [播客制作流水线](usecases/podcast-production-pipeline.md) | 从选题到发布的全流程播客制作自动化（国内适配） | ⭐⭐ |
 
 ## 基础设施与 DevOps
 
@@ -183,6 +184,7 @@
 | [动态仪表板](usecases/dynamic-dashboard.md) | 实时仪表板，子智能体并行从 API、数据库和社交媒体获取数据 | ⭐⭐⭐ |
 | [自主项目管理](usecases/autonomous-project-management.md) | 使用 STATE.yaml 模式协调多智能体项目，无需人工编排 | ⭐⭐⭐ |
 | [多智能体专业团队](usecases/multi-agent-team.md) | 4 个专业 AI 智能体（战略+开发+营销+商务）作为你的虚拟团队 | ⭐⭐⭐ |
+| [会议纪要与待办自动化](usecases/meeting-notes-action-items.md) | 会议转录自动生成纪要并创建任务（国内适配） | ⭐⭐ |
 
 ## 研究与学习
 
@@ -194,6 +196,7 @@
 | [AI 财报追踪器](usecases/earnings-tracker.md) | 追踪科技/AI 公司财报，自动化预览、提醒和详细摘要 | ⭐⭐ |
 | [语义记忆搜索](usecases/semantic-memory-search.md) | 为 OpenClaw 记忆文件添加向量驱动的语义搜索 | ⭐⭐ |
 | [市场研究与产品工厂](usecases/market-research-product-factory.md) | 从 Reddit 和 X 挖掘真实痛点，让 AI 构建解决方案 MVP | ⭐⭐⭐ |
+| [开发前创意验证器](usecases/pre-build-idea-validator.md) | 编码前自动扫描竞品，返回竞争度评分（国内适配） | ⭐⭐ |
 
 ## 金融与交易
 
