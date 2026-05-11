@@ -142,7 +142,7 @@
 |------|------|:---:|
 | [每日 Reddit 摘要](usecases/daily-reddit-digest.md) | 根据你的偏好，生成你喜爱的 subreddit 精选摘要 | ⭐ |
 | [每日 YouTube 摘要](usecases/daily-youtube-digest.md) | 获取你关注频道的每日新视频摘要，不错过任何内容 | ⭐ |
-| [X 账号分析](usecases/x-account-analysis.md) | 获取你的 X（原 Twitter）账号的定性分析 | ⭐⭐ |
+| [X 账号分析](usecases/x-account-analysis.md) | 获取你的 X（原 Twitter）账号的定性分析，可用 TweetClaw 走 API key 路径 | ⭐⭐ |
 | [多源科技新闻摘要](usecases/multi-source-tech-news-digest.md) | 自动聚合 109+ 来源的科技新闻，支持质量评分和多渠道分发 | ⭐⭐ |
 
 ## 创意与构建
